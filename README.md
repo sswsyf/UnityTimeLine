@@ -1,0 +1,2 @@
+# UnityTimeLine
+对Unity自带的TimeLine组件进行了编辑扩展功能，能够控制物体的Transform属性变换以及高亮材质切换，对UI的一些动画也有一些控制。
